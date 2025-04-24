@@ -3,3 +3,4 @@ This is saved in second commit
 third commit
 branch1's first commit
 second commit branch1
+newbranch commit 1
