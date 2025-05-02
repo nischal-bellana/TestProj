@@ -3,4 +3,5 @@ This is saved in second commit
 third commit
 branch1's first commit
 second commit branch1
+added Line from remote
 newbranch commit 1
